@@ -1,0 +1,14 @@
+tweets,sentiment_analysis,comments
+One time. Just one time. I agree with Pence,"Sentiment(polarity=0.0, subjectivity=0.0)",Positive when polarity greater than 0-----negative when polarity lesser than 0
+"This is bitter to the core. Dhoni has removed himself from formats when it did not work. The least you could do is give him a send-off series, if not for him, at the least for...","Sentiment(polarity=-0.2333333333333333, subjectivity=0.43333333333333335)",Positive when polarity greater than 0-----negative when polarity lesser than 0
+"My morning commute playlist. Helps keep me sane everyday.
+
+","Sentiment(polarity=-0.2, subjectivity=0.6)",Positive when polarity greater than 0-----negative when polarity lesser than 0
+"Going by the merit of the trailers, my Deepavali watch queue (stictly ordered by expectation)
+
+1. Kaithi
+2. Bigil
+3. Sangathamizhan","Sentiment(polarity=0.0, subjectivity=0.0)",Positive when polarity greater than 0-----negative when polarity lesser than 0
+"When Hillary throws some wild shade on a fellow, the Democratic outrage machine goes on an unplanned maintenance mode.
+
+Also, dear NRI Hindu nationalists, why are you silent da? A Hindu woman is being attacked.","Sentiment(polarity=0.05, subjectivity=0.25)",Positive when polarity greater than 0-----negative when polarity lesser than 0
